@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AndroidDashboardDesignActivity!</string>
+    <string name="app_name">AndroidDashboardDesign</string>
+    <string name="quants">Quantitative</string>
+    <string name="language">Language</string>
+    <string name="verbal">Verbal And Logical</string>
+    <string name="compfun">Computer Fundamentals</string>
+    <string name="interview">Interview</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="puzzles">Brain Teasers</string>
+    <string name="allinone">All In One</string>
+    <string name="c">C</string>
+    <string name="cpp">C++</string>
+    <string name="java">Java</string>
+    <string name="html">HTML</string>
+    <string name="os">Operating System</string>
+    <string name="dbms">Database Management System </string>
+    <string name="dsa">Data Structures</string>
+    <string name="q1">Numbers And Simplification</string>
+    <string name="q2">Square Root And Cube Root</string>
+    <string name="q4">Problem on Numbers And Ages</string>
+    <string name="q5">Percentage</string>
+    <string name="q6">Profit And Loss</string>
+    <string name="q7">Ratio And Proportion</string>
+    <string name="q8">Partnership</string>
+    <string name="q10">Time And Work And Distance</string>
+    <string name="q11">Problem On Trains,Boats And Streams</string>
+    <string name="q12">Simple Interest And Compound Interest</string>
+    <string name="q13">Area And Volume</string>
+    <string name="q15">Stocks And Shares</string>
+    <string name="q16">Permutation And Combination</string>
+    <string name="q17">Probablity</string>
+    <string name="c1">Declaration And Initialization</string>
+    <string name="c2">Contol Instructions</string>
+    <string name="c3">Exprssions</string>
+    <string name="c4">Floationg Point</string>
+    <string name="c5">Functions</string>
+    <string name="c6">C Preprocessor</string>
+    <string name="c7">Pointers</string>
+    <string name="c8">Arrays And Strings</string>
+    <string name="c9">Structures,Unions,Enums </string>
+    <string name="c10">Input Output</string>
+    <string name="c11">Command Line Arguments</string>
+    <string name="c12">Bitwise Operator</string>
+    <string name="c13">Typedef,Const,Memory Allocation</string>
+    <string name="c14">VarArgs,Complicated Declarations</string>
+    <string name="cpp1">OOP Concepts </string>
+    <string name="cpp2">Constructors And Destructors </string>
+    <string name="cpp3">Pointers, Arrays, Constants, Structures </string>
+    <string name="cpp4">Functions And Macros </string>
+    <string name="cpp5">Operator And Overloading</string>
+    <string name="cpp6">Derived Classes, templates and Exception Handling</string>
+    <string name="cpp7"> Strings and Streams</string>
+    <string name="j1">Basics,Control Statements,Operators </string>
+    <string name="j2">Classes And Object </string>
+    <string name="j3">Input And Output,Arrays,Strings</string>
+    <string name="j4">Inheritance,Abstract Classes,Interfaces,Packeges</string>
+    <string name="j5">Excception Handling And Assertions</string>
+    <string name="j6">Enumerators And Nested Classes</string>
+    <string name="j7">Files An Serialization</string>
+    <string name="j8"> Threads</string>
+    <string name="j9">Collections And Generics</string>
+    <string name="j10">Formatters</string>
+    <string name="v1">Analogy </string>
+    <string name="v2">Classification</string>
+    <string name="v3">Series Complition</string>
+    <string name="v4">Coding And Decoding</string>
+    <string name="v5">Blood Relations</string>
+    <string name="v6">Logical Sequence And Words</string>
+    <string name="v7">Decision Making</string>
+    <string name="v8">Data Suffiiency</string>
+    <string name="v9">Cause And Effects</string>
+    <string name="head">Aptitude Guru</string>
+    <string name="psycho">Psychometric</string>
+    <string name="psychotest">Psychometric Test</string>
+	<string name="psychoDemoQuestion">
+		<b>Scenario</b>\n\n
+		You are a Human Resources (HR) 
+		Assistant working in the HR Department of a busy NHS Hospital Trust.
+		The hospital is the Princess Aurora General in Saldringham City.\n\n Your 
+		role is to carry out administrative tasks to support the HR 
+		activities required in the Trust. You organise and support 
+		recruitment, book training courses, provide secretarial support at 
+		disciplinary investigations and keep personnel records for all 
+		medical and non-medical staff up to date including pay and conditions 
+		information.\n\n You report to one of two HR Managers who in turn report 
+		to the HR Director. Your manager is called Fiona Potter.\n\n
+		<b>Situation</b>\n\n
+		It is three days after an interview process was held to appoint a new Consultant 
+		Ophthalmologist for the hospital. This Consultant will be the most senior medical 
+		person in the Ophthalmology (eye) department and in charge of three Senior 
+		Registrars, two Registrars and Two House Officers – these are all junior doctors. 
+		Consultant posts are rarely available as once people gain such a post they often 
+		stay until they retire and there is lots of competition to gain a medical post at 
+		the Trust, let alone a Consultant post with its associated security, status and 
+		generous pay.\n\n
+		Two internal; candidates plus an external candidate were interviews for the post and 
+		the role was given to one of the internal candidates. The person appointed was 
+		less experienced, in terms of their years as a Senior Registrar, than the other 
+		two candidates but they were considered to be more ‘high-flying’, academically 
+		gifted and to possess more impressive leadership skills than the other two.\n\n
+		Mr Brian Bowler, the internal rejected candidate, has come to your office this 
+		morning and is complaining bitterly about the decision. You were the one who wrote 
+		the letters informing candidates of the decision. Mr Bowler is angry and feels unfairly 
+		treated as he has more experience than Vijay Singh, the appointed candidate.\n\n
+		Review the following responses A to D and indicate whether you believe the response to be 1 
+		– the most effective response, 2 – the second most effective response, 3 – the third most 
+		effective response or 4 – the least effective response. You may assign each rating only once.
+		\n\n
+		<b>Responses</b>\n\n
+		<b>A</b> - Tell Mr Bowler that the process was fair and the hospital has to make sure that it 
+		appoints the right person for the job, and not the one who has been around for the longest.\n\n
+		<b>B</b> - Say that the interview board felt that Mr Singh was better academically and had 
+		better leadership skills and that the final decision was not based on experience alone.\n\n
+		<b>C</b> – Say to Mr Bowler that you can see why he is disappointed. State that the process 
+		was stringently fair and that he could seek full details of the reason for the decision and 
+		other developmental feedback from the interviews if he would like to.\n\n
+		<b>D</b> – Offer him a cup of tea and say that you can understand why he is upset. Let him 
+		have a bit of a moan to you and get it out of his system.
+	</string>
+	<string name="psychoCorrectAnswer">
+	    <b>C</b> – The most effective response. You are emphasising with Mr Bowler but 
+	    not supporting his negative view of the process. You are encouraging him to seek 
+	    more information and feedback as to why he didn’t get the job which may help him 
+	    develop and continue to contribute well to the department and the hospital.\n\n
+	    <b>D</b> – The second most effective response. You are being sympathetic and 
+	    friendly, although you are not helping him ‘move on’. Also there is a danger he 
+	    may interpret your sympathy as support for his point of view.\n\n
+	    <b>A</b> – The third most effective response. Although this is all perfectly true, 
+	    it is a little insensitive and you are likely to alienate Mr Bowler and as he is 
+	    still an employee at the hospital this may not be sensible.\n\n
+	    <b>B</b> – The least effective response. Since you are only an assistant it is not 
+	    your role to give such feedback to Mr Bowler, which may be counterproductive. You 
+	    should also be encouraging him to seek feedback from the interviewers directly. 
+	    Also, Mr Bowler needs to be given a fully-rounded picture of his performance at the 
+	    interview and why the interviewers felt that they wouldn’t offer him the job on this 
+	    occasion.
+	</string>
+</resources>
